@@ -3,4 +3,4 @@
 rm -rf OLD-ID-CLONE
 git clone https://github.com/HUNTER-X-404/OLD-ID-CLONE-.git
 cd OLD-ID-CLONE
-python OLD-FB-X.py
+python Hunter.py
